@@ -1,0 +1,1 @@
+Esse mod foi feito principalmente para testar as funções e banco de dados do [EDMModManager](https://github.com/kaikecarlos/EDMModManager)
